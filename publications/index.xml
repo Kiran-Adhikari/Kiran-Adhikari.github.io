@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on</title><link>https://Kiran-Adhikari.github.io/publications/</link><description>Recent content in Publications on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Kiran-Adhikari.github.io/publications/index.xml" rel="self" type="application/rss+xml"/><item><title>Multi-Modal Fusion Framework for HCC Prediction</title><link>https://Kiran-Adhikari.github.io/publications/hcc-prediction-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://Kiran-Adhikari.github.io/publications/hcc-prediction-2025/</guid><description>&lt;p&gt;Designed a framework integrating transcriptomics, imaging, and clinical attributes to improve hepatocellular carcinoma diagnosis and prediction.&lt;/p&gt;
+&lt;h3 id="abstract"&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;This work presents a multi-modal fusion framework that combines transcriptomic data, medical imaging, and clinical attributes to enhance the accuracy of hepatocellular carcinoma (HCC) diagnosis and prediction. The integrated approach provides a comprehensive view of disease progression and improves diagnostic capabilities.&lt;/p&gt;
+&lt;h3 id="conference"&gt;Conference&lt;/h3&gt;
+&lt;p&gt;Presented at International Conference for Genomic Medicine 2026 (ICGM 2026)
+Submitted at AASLD (American Association for the Study of Liver Diseases) 2025.&lt;/p&gt;</description></item><item><title>Portable DNA Sequencing Technologies for Far-Forward Operations</title><link>https://Kiran-Adhikari.github.io/publications/portable-dna-sequencing-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://Kiran-Adhikari.github.io/publications/portable-dna-sequencing-2025/</guid><description>&lt;p&gt;Developed fieldable sequencing approaches emphasizing low size, weight, power, and high fidelity to meet expeditionary requirements.&lt;/p&gt;
+&lt;h3 id="abstract"&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;This work focuses on developing portable DNA sequencing technologies suitable for far-forward operations. The approach emphasizes low size, weight, and power (SWaP) requirements while maintaining high fidelity, making it suitable for expeditionary and field deployment scenarios.&lt;/p&gt;
+&lt;h3 id="conference"&gt;Conference&lt;/h3&gt;
+&lt;p&gt;Presented at MHSRS (Military Health System Research Symposium) 2025.&lt;/p&gt;</description></item><item><title>Generate splice junction data from publicly available RNA-seq data using open-source tools to identify novel isoforms</title><link>https://Kiran-Adhikari.github.io/publications/splice-junction-capstone-2024/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://Kiran-Adhikari.github.io/publications/splice-junction-capstone-2024/</guid><description>&lt;p&gt;Capstone project for Master of Science in Bioinformatics at Hood College.&lt;/p&gt;
+&lt;h3 id="abstract"&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;This capstone project focused on generating splice junction data from publicly available RNA-seq datasets using open-source bioinformatics tools. The goal was to identify novel isoforms that may not be present in standard reference annotations, contributing to our understanding of transcriptome diversity.&lt;/p&gt;
+&lt;h3 id="project-details"&gt;Project Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilized publicly available RNA-seq data from GEO and other repositories&lt;/li&gt;
+&lt;li&gt;Applied open-source tools for splice junction detection&lt;/li&gt;
+&lt;li&gt;Identified and characterized novel isoforms&lt;/li&gt;
+&lt;li&gt;Contributed to transcriptome annotation improvements&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
